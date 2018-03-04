@@ -1,8 +1,8 @@
 # python-scim
 [![Build Status](https://travis-ci.org/concordusapps/python-scim.png?branch=master)](https://travis-ci.org/concordusapps/python-scim)
 [![Coverage Status](https://coveralls.io/repos/concordusapps/python-scim/badge.png?branch=master)](https://coveralls.io/r/concordusapps/python-scim?branch=master)
-[![PyPi Version](https://pypip.in/v/scim/badge.png)](https://pypi.python.org/pypi/scim)
-![PyPi Downloads](https://pypip.in/d/scim/badge.png)
+[![PyPi Version](https://img.shields.io/pypi/v/scim.svg)](https://pypi.python.org/pypi/scim)
+![PyPi Downloads](https://img.shields.io/pypi/dm/scim.svg)
 > A python interface to produce and consume System for Cross-domain Identity Management (SCIM) messages.
 
 ## Features
